@@ -10,7 +10,7 @@ public class RPSGame {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
 
-        System.out.println("Welcome User ");
+        System.out.println("Welcome! Let's play rock, paper, scissors! ");
         System.out.println("Enter 1 for Rock, 2 for Paper, and 3 for Scissors" );
         
         int choice = scnr.nextInt();
